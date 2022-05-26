@@ -1,19 +1,30 @@
 <html>
-    <title>Школа боевых искусств</title>
-    <body style="font-family:sans-serif;">
-    <header style="background-color:black">
-        <img src="https://mars.algoritmika.org/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
-        <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" style="color:white">История</a>
-    </header>
-    <main style="background-color:lightgray">
-        <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа боевых искусств<br/>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150"/></h1>
-        <p style="font-size:20px">Приглашаем освоить любой из видов рукопашного боя, который вам по душе. <br/>У нас представлены: <b><i>традиционный рукопашный бой, тайский бокс, Джиу-Джитсу, карате и многое другое</i></b>. Занятия ведут профессиональные тренеры в группах разного уровня.</p>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/karate-4575114_640_0_1602523338.png" height="230px";/><img src="https://mars.algoritmika.org/uploads/2020/10/punching-bag_0_1602525500.png" height="230px";/><img src="https://mars.algoritmika.org/uploads/2020/10/boxing-ring_0_1602525156.png" height="230px";/>
-    </main>
-    <footer style="background-color:black;color:white;">
-        <p style="font-size:15px"> Адрес: город Спортивный, ул.Здоровья, 15.</p>
-        <p>Тел.:596-457</p>
-    </footer>
+    <body>
+        <main>
+            <h1>Клуб регби для начинающих</h1>
+            <p class="gallery"><img src="https://backoffice.algoritmika.org/uploads/2021/01/quarterback-73614_1920_0_1610564244.png" width="200px"/><img src="/uploads/2021/01/hockey-2330582_1920_0_1610564351.jpg" width="250px"/><img src="/uploads/2021/01/rugby-34152_1280_0_1610564450.png" width="250px"/></p>
+            <h2>Снаряжение:</h2>
+            <ul>
+                <li>мяч для регби</li>
+                <li>майка и шорты</li>
+                <li>шипованные бутсы</li>
+                <li>защитное снаряжение</li>
+            </ul>
+            <h2>Стандартные положения<br/> и комбинации:</h2>
+            <ul>
+                <li>схватка</li>
+                <li>мол</li>
+                <li>рак</li>
+                <li>аут и коридор</li>
+                <li>метка</li>
+                <li>захват</li>
+                <li>свободный удар</li>
+                <li>штрафной удар</li>
+            </ul>
+        </main>
+        <footer>
+            <a href="https://www.facebook.com"><img src="/uploads/2021/01/icon-set-1142000_1280%201_0_1610567897.svg"/></a>
+            <a href="https://twitter.com"><img src="/uploads/2021/01/icon-set-1142000_1280%202_0_1610567897.svg"/></a>
+        </footer>
     </body>
 </html>
