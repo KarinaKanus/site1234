@@ -1,4 +1,7 @@
 <html>
+  <head>
+      <title>le</title>
+      <link rel="stylesheet" href="style.css"
     <body>
         <main>
             <h1>Клуб регби для начинающих</h1>
